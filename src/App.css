@@ -1,0 +1,37 @@
+.app-container{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 600px;
+  min-width: 200px;
+}
+.post{
+  width: 18rem;
+  margin: 20px 50px;
+  min-width: 30rem;
+}
+.hashtag{
+  margin: 0px 3px;
+}
+.reaction{
+  min-width: 100%;
+  margin-top: 15px;
+}
+.creat_post{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+.no_post{
+  margin: 40px;
+}
+.btn_no_post{
+  margin: 40px;
+}
+.my_input::placeholder{
+  color: white;
+}
+
